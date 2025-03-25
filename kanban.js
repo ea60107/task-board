@@ -1,3 +1,4 @@
+console.log("Trello風タスクボードを読み込みました");
 
 (async () => {
   const space = document.getElementById("custom-task-board");
